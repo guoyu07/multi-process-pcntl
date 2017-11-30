@@ -1,5 +1,5 @@
 {
-    "name": "multi-process-pcntl",
+    "name": "yuli/multi-process-pcntl",
     "description": "A library of multi-process-pcntl.",
     "keywords": ["multi-process", "pcntl"],
     "type": "library",

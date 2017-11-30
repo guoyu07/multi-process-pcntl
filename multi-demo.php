@@ -1,6 +1,6 @@
 <?php
 
-require_once(__DIR__ . '/MultiProcessPcntl.php');
+require_once(__DIR__ . '/src/MultiProcessPcntl.php');
 
 // 任务数组参数，以此作为切分进程的量化依据，默认被调用方法的第一个参数
 $task = range(1, 12);
