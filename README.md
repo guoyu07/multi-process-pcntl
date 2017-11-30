@@ -18,6 +18,12 @@
 
 生产环境已经校验了，可以放心大胆地使用
 
+## 引入说明
+
+```bash
+$ composer require multi-process-pcntl
+```
+
 ## 使用方法
 
 ```
@@ -34,6 +40,8 @@ $sync = new MultiProcessPcntl($task);
 // 支持传参
 $sync->call('test', 'append arg');
 ```
+
+![](https://raw.githubusercontent.com/multi-process-pcntl/multi-demo.png)
 
 ## 一些相关知识点
 

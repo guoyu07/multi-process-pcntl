@@ -1,5 +1,7 @@
 <?php
 
+namespace yuli\pcntl;
+
 /**
  * 
  * MultiProcessPcntl
