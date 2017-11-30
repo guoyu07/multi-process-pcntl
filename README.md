@@ -21,7 +21,7 @@
 ## 引入说明
 
 ```bash
-$ composer require multi-process-pcntl
+$ composer require yuli/multi-process-pcntl
 ```
 
 ## 使用方法
@@ -41,7 +41,7 @@ $sync = new MultiProcessPcntl($task);
 $sync->call('test', 'append arg');
 ```
 
-![](https://raw.githubusercontent.com/multi-process-pcntl/multi-demo.png)
+![](https://github.com/shxingzhe/multi-process-pcntl/blob/master/multi-demo.png)
 
 ## 一些相关知识点
 
