@@ -8,7 +8,9 @@
 
 ## multi-process-pcntl
 
-基于PCNTL的PHP并发处理 封装类
+基于PCNTL的PHP并发处理 封装类。
+
+对PHP语言底层扩展的的深度解读和生产应用。 
 
 ***
 
